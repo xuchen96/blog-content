@@ -4,6 +4,7 @@ date: 2026-05-20
 summary: 这是我的第一篇博客文章，欢迎来到我的博客！
 tags: [Java, Spring Boot, Vue, GitHub]
 author: xuchen
+author_email: 1393270387@qq.com
 slug: hello-world
 published: true
 ---
