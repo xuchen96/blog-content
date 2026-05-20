@@ -6,6 +6,7 @@ tags: [Java, 基础, 面向对象, 集合, 多线程]
 author: Faded
 author_email: 1393270387@qq.com
 slug: java-basics
+pinned: true
 published: true
 ---
 ## Java 语言概述
