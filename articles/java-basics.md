@@ -3,6 +3,7 @@ title: Java 基础知识
 date: 2026-05-21
 summary: Java 核心基础知识梳理，涵盖面向对象、集合框架、异常处理和多线程等关键概念。
 tags: [Java, 基础, 面向对象, 集合, 多线程]
+author: Faded
 author_email: 1393270387@qq.com
 slug: java-basics
 published: true
