@@ -4,10 +4,9 @@ date: 2026-05-20
 summary: 这是我的第一篇博客文章，欢迎来到我的博客！
 tags: [Java, Spring Boot, Vue, GitHub]
 author: 徐晨
-published: true
 slug: hello-world
+published: true
 ---
-
 ## 欢迎来到我的博客
 
 这是一个基于 **GitHub** 作为内容管理系统的博客平台。
